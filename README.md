@@ -1,4 +1,4 @@
-# 1er Pre Entrega - React Js / Comisión 71340 - Juan Ignacio Armas
+# 1er Pre Entrega - Comisión 71340 - Juan Ignacio Armas
 
 ## React Js
 
